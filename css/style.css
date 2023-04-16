@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .contenedor {
+    flex-grow: 1;
+  }
+  
+  footer {
+    margin-top: auto;
+  }
